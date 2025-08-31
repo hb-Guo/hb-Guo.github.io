@@ -2,7 +2,7 @@
 
 - <strong>H. Guo</strong>, X. Yi*, W. Zeng, D. Zhu, T. Tu, R. Wang. Encoder-Decoder Driven Adaptive Multiscale-CNN Based Indoor Localization with WiFi Fingerprinting. APweb-WAIM 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]()
 
-- <strong>H. Guo</strong>, W. Zeng, K. Zeng, X. Yi*. Towards Task-Adaptive Indoor Localization via Progressive and Lightweight Learning. IEEE ISPA 2025. <strong>CCF Rank C</strong>. Under Review. [[Paper]]()
+- <strong>H. Guo</strong>, W. Zeng, K. Zeng, X. Yi*. Towards Task-Adaptive Indoor Localization via Progressive and Lightweight Learning. IEEE ISPA 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]()
 
 - W. Zeng, Y. Ye*, Z. Xing, C. Li, <strong>H. Guo</strong>, J. Liu. Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction. Information Processing and Management. <strong>Zone.1 Top of CAS, CCF Rank C</strong>, Second Review. [[Paper]]()
 
