@@ -2,6 +2,8 @@ Currently studying for a master's degree in electronic information at the School
 #### Email
 ghb2002@stumail.neu.edu.cn
 
+hbguo@gmail.com
+
 hbguo02@163.com
 
 #### Education
