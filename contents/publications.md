@@ -4,7 +4,7 @@
 
 - <strong>H. Guo</strong>, W. Zeng, K. Zeng, X. Yi*. Towards Task-Adaptive Indoor Localization via Progressive and Lightweight Learning. IEEE ISPA 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]()
 
-- W. Zeng, Y. Ye*, Z. Xing, C. Li, <strong>H. Guo</strong>, J. Liu. Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction. Information Processing and Management. <strong>Zone.1 Top of CAS, CCF Rank B</strong>, Second Review. [[Paper]]()
+- W. Zeng, Y. Ye*, Z. Xing, C. Li, <strong>H. Guo</strong>, J. Liu. Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction. Information Processing and Management. <strong>Zone.1 Top of CAS, CCF Rank B</strong>, Third Review. [[Paper]]()
 
 - <strong>H. Guo</strong>, X. Yi*, W. Zeng, D. Zhu, R. Wang, K. Zeng. CL-Loc: A Dual-Branch CNN-LSTM Network for WiFi Fingerprint-Based Indoor Localization. ICCT 2025. <strong>EI</strong>. Accepted. [[Paper]]()
 
