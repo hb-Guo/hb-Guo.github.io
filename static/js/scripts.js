@@ -43,6 +43,15 @@ window.addEventListener('DOMContentLoaded', event => {
                 }
 
             })
+            // Blog link (set href if provided)
+            try {
+                if (yml['blog-link']) {
+                    const blogAnchor = document.getElementById('blog-link');
+                    if (blogAnchor) {
+                        blogAnchor.setAttribute('href', yml['blog-link']);
+                    }
+                }
+            } catch {}
         })
         .catch(error => console.log(error));
 
