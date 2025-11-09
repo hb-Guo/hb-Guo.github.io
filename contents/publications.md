@@ -4,7 +4,7 @@
 
 - <strong>H. Guo</strong>, W. Zeng, K. Zeng, X. Yi*. Towards Task-Adaptive Indoor Localization via Progressive and Lightweight Learning. IEEE ISPA 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]()
 
-- W. Zeng, Y. Ye*, Z. Xing, C. Li, <strong>H. Guo</strong>, J. Liu. Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction. Information Processing and Management. <strong>Zone.1 Top of CAS, CCF Rank B</strong>, Third Review. [[Paper]]()
+- W. Zeng, Y. Ye*, Z. Xing, C. Li, <strong>H. Guo</strong>, J. Liu. Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction. Information Processing and Management. <strong>Zone.1 Top of CAS, CCF Rank B</strong>, Fourth Review. [[Paper]]()
 
 - <strong>H. Guo</strong>, X. Yi*, W. Zeng, D. Zhu, R. Wang, K. Zeng. CL-Loc: A Dual-Branch CNN-LSTM Network for WiFi Fingerprint-Based Indoor Localization. ICCT 2025. <strong>EI</strong>. Accepted. [[Paper]]()
 
@@ -12,6 +12,6 @@
 
 - D. Zhu, J. Lin, R. Wang, X. Yi*, <strong>H. Guo</strong>, K. Zeng. An Intelligent Algorithm Based on GNN and SAC for Service Function Chain Deployment. ICCT 2025. <strong>EI</strong>. Accepted. [[Paper]]()
 
-**Patents**
+**National Invention Patent**
 
-- 一种基于医疗知识图谱的虚拟人智能问答系统构建方法. R. Wang, D. Zhu, <strong>H. Guo</strong>, X. Yi, Q. He. Actual Quality Review.
+- A Method for Constructing a Virtual Human Intelligent Question-Answering System Based on Medical Knowledge Graph. R. Wang, D. Zhu, <strong>H. Guo</strong>, X. Yi, Q. He. Actual Quality Review.

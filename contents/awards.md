@@ -1,5 +1,7 @@
 - Graduate First-Class Academic Scholarship of Northeastern University, 2025.
 
+- Outstanding Graduate Student of Northeastern University, 2025.
+
 - Outstanding Graduate Student of Northeastern University, 2024.
 
 - Graduate First-Class Academic Scholarship of Northeastern University, 2024.
