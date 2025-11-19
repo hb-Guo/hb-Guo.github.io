@@ -30,4 +30,4 @@ Zhongwei Wan, Xin Liu, Benyou Wang, Jiezhong Qiu, Boyu Li, Ting Guo, Guangyong C
 
 本文的方法采用的是对比学习的方法，采用时间增强器将时间信息进行编码增强，并采用多关系图注意力网络作为空间编码器，同时结合负噪声采样策略，进一步增强模型性能。额外的，由于会话的数据较为稀疏，采取了将全局的协同过滤图作为补充信息以增强图视图的信息。
 
-![文章1结构图]({{ "/images/paper1jiegoutu.png" | relative_url }})
+![文章1结构图]({{"/images/paper1jiegoutu.png"|relative_url}})
