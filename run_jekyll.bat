@@ -5,7 +5,7 @@ echo ---------------------------------------
 echo.
 
 
-cd /d D:\PhdStudy\github_pages\academicpages.github.io
+cd /d C:\PhdStudy\github_pages\academicpages.github.io
 
 
 bundle exec jekyll serve
