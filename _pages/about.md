@@ -11,20 +11,20 @@ Currently studying for a master's degree in electronic information at the School
 
 ### Email
 
-[hbguo02@gmail.com](mailto:hbguo02@gmail.com)
+[[Email me.]](mailto:hbguo02@gmail.com)
 
 ### Education
-Master of Electronic Information, Computer Technology, Northeastern University(Shenyang), 2023—Now. :running:
+Master of Electronic Information, Computer Technology, Northeastern University(Shenyang, China), 2023—Now. :running:
 
 ### Papers :pray:
 
-- <strong>H. Guo</strong>, X. Yi*, W. Zeng, D. Zhu, T. Tu, R. Wang. Encoder-Decoder Driven Adaptive Multiscale-CNN Based Indoor Localization with WiFi Fingerprinting. APweb-WAIM 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]()
+- <strong>H. Guo</strong>, X. Yi*, W. Zeng, D. Zhu, T. Tu, R. Wang. Encoder-Decoder Driven Adaptive Multiscale-CNN Based Indoor Localization with WiFi Fingerprinting. APweb-WAIM 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]() [[PDF]](https://hb-guo.github.io/files/Encoder_Decoder_Driven_Adaptive_Multiscale_CNN_Based_Indoor_Localization_with_WiFi_Fingerprinting.pdf)
 
-- <strong>H. Guo</strong>, W. Zeng, K. Zeng, X. Yi*. Towards Task-Adaptive Indoor Localization via Progressive and Lightweight Learning. IEEE ISPA 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]()
+- <strong>H. Guo</strong>, W. Zeng, K. Zeng, X. Yi*. Towards Task-Adaptive Indoor Localization via Progressive and Lightweight Learning. IEEE ISPA 2025. <strong>CCF Rank C</strong>. Accepted. [[Paper]]() [[PDF]]()
 
-- W. Zeng, Y. Ye*, Z. Xing, C. Li, <strong>H. Guo</strong>, J. Liu. Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction. Information Processing and Management. <strong>Zone.1 Top of CAS, CCF Rank B</strong>, Fourth Review. [[Paper]]()
+- W. Zeng, Y. Ye*, Z. Xing, C. Li, <strong>H. Guo</strong>, J. Liu. Attention Enhanced Knowledge Graph Embeddings with Variable Receptive Fields for Link Prediction. Information Processing and Management. <strong>Zone.1 Top of CAS, CCF Rank B</strong>, Fourth Review. [[Paper]]() [[PDF]](https://hb-guo.github.io/files/ISPA_Towards_Task_Adaptive_Indoor_Localization_via_Progressive_and_Lightweight_Learning.pdf)
 
-- <strong>H. Guo</strong>, X. Yi*, W. Zeng, D. Zhu, R. Wang, K. Zeng. CL-Loc: A Dual-Branch CNN-LSTM Network for WiFi Fingerprint-Based Indoor Localization. ICCT 2025. <strong>EI</strong>. Accepted. [[Paper]]()
+- <strong>H. Guo</strong>, X. Yi*, W. Zeng, D. Zhu, R. Wang, K. Zeng. CL-Loc: A Dual-Branch CNN-LSTM Network for WiFi Fingerprint-Based Indoor Localization. ICCT 2025. <strong>EI</strong>. Accepted. [[Paper]]() [[PDF]](https://hb-guo.github.io/files/ICCT_CL_Loc_A_Dual_Branch_CNN_LSTM_Network_for_WiFi_Fingerprint_Based_Indoor_Localization (1).pdf)
 
 - T. Tu, X. Yi*, H. Wang, <strong>H. Guo</strong>. Cloud Computing Task Scheduling Based on Proximal Policy and Whale Optimization Algorithm. ICCT 2025. <strong>EI</strong>. Accepted. [[Paper]]()
 
