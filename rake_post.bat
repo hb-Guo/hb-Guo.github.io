@@ -5,7 +5,7 @@ echo -----------------------------------------
 echo.
 
 :: 切换到 Jekyll 目录
-cd /d C:\PhdStudy\github_pages\academicpages.github.io
+cd /d C:\PhdStudy\github_pages\hbguo.github.io
 
 :: 等待用户输入标题
 set /p POSTTITLE=input title: 
